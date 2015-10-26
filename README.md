@@ -9,6 +9,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 lorem ipsum
 ## User login
 
-Laber laber
+Laber laber 
+
+Windows FTW ;) 
 
 Eine Rose ist eine Rose ist eine Rose
